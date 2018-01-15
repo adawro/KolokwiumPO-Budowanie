@@ -1,0 +1,5 @@
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\bin\Debug\BudowanieKolokwium.exe.config
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\bin\Debug\BudowanieKolokwium.exe
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\bin\Debug\BudowanieKolokwium.pdb
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\obj\Debug\BudowanieKolokwium.exe
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\obj\Debug\BudowanieKolokwium.pdb

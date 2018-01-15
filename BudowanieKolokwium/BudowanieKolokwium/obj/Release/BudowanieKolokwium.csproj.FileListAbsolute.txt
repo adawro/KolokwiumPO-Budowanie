@@ -1,0 +1,6 @@
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\obj\Release\BudowanieKolokwium.csprojResolveAssemblyReference.cache
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\bin\Release\BudowanieKolokwium.exe.config
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\bin\Release\BudowanieKolokwium.exe
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\bin\Release\BudowanieKolokwium.pdb
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\obj\Release\BudowanieKolokwium.exe
+D:\Wroński Obiektowe\BudowanieKolokwium\BudowanieKolokwium\obj\Release\BudowanieKolokwium.pdb
